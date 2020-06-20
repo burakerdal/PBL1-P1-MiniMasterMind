@@ -1,0 +1,6 @@
+c:\users\hp\documents\visual studio 2015\Projects\MiniMasterMindProject\MiniMasterMindProject\bin\Debug\MiniMasterMindProject.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\MiniMasterMindProject\MiniMasterMindProject\bin\Debug\MiniMasterMindProject.exe
+c:\users\hp\documents\visual studio 2015\Projects\MiniMasterMindProject\MiniMasterMindProject\bin\Debug\MiniMasterMindProject.pdb
+c:\users\hp\documents\visual studio 2015\Projects\MiniMasterMindProject\MiniMasterMindProject\obj\Debug\MiniMasterMindProject.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\MiniMasterMindProject\MiniMasterMindProject\obj\Debug\MiniMasterMindProject.exe
+c:\users\hp\documents\visual studio 2015\Projects\MiniMasterMindProject\MiniMasterMindProject\obj\Debug\MiniMasterMindProject.pdb
